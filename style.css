@@ -1,0 +1,35 @@
+.display {
+    background-color: rgb(201, 201, 201);
+    padding: 15px;
+    width: 250px;
+    text-align: right;
+    font-size: 20px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    background-color: rgb(194, 194, 194);
+    color: black;
+    font-size: 20px;
+}
+.first-row{
+    display: flex;
+    align-items: flex-start;
+}
+
+#output{
+    width: 200px;
+    margin-left: 12px;
+}
+
+#container{
+    background-color: rgb(78, 174, 230);
+    width: 300px;
+    height: 300px;
+    margin-left: 4px;
+   
+}
